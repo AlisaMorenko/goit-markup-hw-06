@@ -337,7 +337,6 @@ header {
     margin-bottom: 16px;
 }
 
-
 .networks {
     display: flex;
     justify-content: space-between;
@@ -367,7 +366,6 @@ header {
 .soc-links-svg:hover {
     fill: currentColor;
 }
-
 
 /* стилизация секции клиентов */
 .clients {
@@ -590,7 +588,6 @@ fill: currentColor;
     flex-direction: column;
     text-align: left;
     margin-bottom: 10px;
-
 }
 
 .form-label,
@@ -616,7 +613,6 @@ fill: currentColor;
     padding: 11px 42px;
 }
 
-/* not working in chrome*/
 .form-input:focus,
 .comment:focus {
     border: 1px solid var(--accent-color);    
