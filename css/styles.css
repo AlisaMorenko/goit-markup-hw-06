@@ -691,8 +691,10 @@ fill: currentColor;
 }
 
 .checkbox-label > a {
+    display: block;
     color: var(--accent-color);
     text-decoration-color: var(--accent-color);
+    margin-left: 4px;
 }
 
 /* footer */
